@@ -1,2 +1,1 @@
-# suspishous.github.io
-SMH
+[main repo](https://github.com/suspishous/suspishous)
